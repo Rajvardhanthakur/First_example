@@ -1,3 +1,3 @@
 # First_example
-I'm new in github
-This the first repository i have ever made.
+I'm new to github
+This is the first repository. I have ever made.
